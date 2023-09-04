@@ -1,2 +1,4 @@
 # MADS_test
-Test script for MADS
+This is just a test 
+
+This is a conflict 
